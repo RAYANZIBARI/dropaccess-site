@@ -11,10 +11,12 @@ export const metadata: Metadata = {
   description:
     "DropAccess is a Solana utility token that unlocks exclusive dropshipping resources, vetted suppliers, tools, and a global entrepreneur community. Hold DROPA to get access.",
   keywords: ["DropAccess", "DROPA", "Solana", "SPL token", "dropshipping", "crypto", "membership", "e-commerce"],
+  metadataBase: new URL("https://dropa.dev"),
   openGraph: {
     title: "DropAccess (DROPA) | Token-Gated E-Commerce Membership",
     description: "Hold DROPA to unlock exclusive dropshipping resources and tools on Solana.",
     type: "website",
+    url: "https://dropa.dev",
   },
   twitter: {
     card: "summary_large_image",
