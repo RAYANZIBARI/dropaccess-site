@@ -12,7 +12,7 @@ export const LINKS = {
   telegram: "https://t.me/DropAccessOfficial",
   discord: "https://discord.gg/dropaccess",
   medium: "https://medium.com/@dropaccess",
-  github: "https://github.com/dropaccess",
+  github: "https://github.com/RAYANZIBARI/dropaccess-site",
   buy: "https://jup.ag/swap/SOL-DROPA",
   solscan: `https://solscan.io/token/${TOKEN.mintAddress}`,
 };
